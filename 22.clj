@@ -2,6 +2,7 @@
 
 ;; Count a Sequence
 ;; Write a function which returns the total number of elements in a sequence.
+;; Special Restrictions -> Cannot use count
 
 ;; case tests
 ;; (= (__ '(1 2 3 3 1)) 5)
